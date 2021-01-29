@@ -4,10 +4,23 @@
 
 ----
  - pull --> Download changes from remote repo to your machine
+
+ - git status --> view the status of your files in the working directory and staging area
+
+ ![git status](https://github.com/sucui-work/HPC-Training/blob/main/4.%20GitHub_basics/images/git_status.PNG)
+
  - push --> Upload git commits to a remote repo
+
+ ![push example](https://github.com/sucui-work/HPC-Training/blob/main/4.%20GitHub_basics/images/git_push.PNG)
+
  - clone --> Bring a reposiory that is hosted somewhere like GITHUB into a folder on your local machine
+
+ - git add file --> adds file contents to the staging area
+
+ ![add & commit example](https://github.com/sucui-work/HPC-Training/blob/main/4.%20GitHub_basics/images/git_add_commit.PNG)
+
  - commit --> save you files in git
- 
+
  ## GitHub Terminal Commands 
 | command | description |
 |---------|-------------|
