@@ -4,7 +4,7 @@ HOW TO CONNECT TO PVAMU CLOUD CLUSTER USING VMWARE HORIZON HTML ACCESS.
 Step 1: 
 connect to https://mydesktop.pvamu.edu/ and Click on VMware Horizon HTML Access
 
-![](/images/Step1.png)
+![](images/Step1.png)
 
 
 Step 2:
