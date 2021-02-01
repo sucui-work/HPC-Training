@@ -4,20 +4,20 @@ HOW TO CONNECT TO PVAMU CLOUD CLUSTER USING VMWARE HORIZON HTML ACCESS.
 Step 1: 
 connect to https://mydesktop.pvamu.edu/ and Click on VMware Horizon HTML Access
 
-![](Step1.png)
+![](/images/Step1.png)
 
 
 Step 2:
  Log in using your PV username and your password
 
-  ![](Step2.png)
+  ![](/images/Step2.png)
 
 
 Step 3:
  After you logged in, click on windows 10 Desktop
 
  
-![](Step3.png)
+![](/images/Step3.png)
 
 
 
@@ -25,7 +25,7 @@ Step 4:
 
 At this point, you should have access to your desktop. Type to search CMD and launch the command line.
  
-![](Step4.png)
+![](/images/Step4.png)
 
 Step 5: 
 
@@ -35,7 +35,7 @@ ssh username@129.207.46.224
 For example: If you PV email is jdoe@student.pvamu.edu, 
 type  ssh jdoe@129.207.46.224
 
-![](Step5a.png)
+![](/images/Step5a.png)
  
 
 Then type the default password pvamu1234
@@ -43,7 +43,7 @@ Then type the default password pvamu1234
 
 You should have the following page :
 
-![](Step5b.png)
+![](/images/Step5b.png)
 
  
 
